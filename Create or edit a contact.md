@@ -4,15 +4,15 @@ When companies express an interest in your product/service, the representatives 
 
 You can also use accounts to keep track of any vendors you do business with.
 
-## Create an account
+## Create a contact
 
-1. Go to Accounts.
+1. Go to Contacts.
 2. Choose New.
 3. Fill in your information. Use the handy tooltips as a guide.
 4. Click Save.
 
-## Edit an account
+## Edit a contact
 
-1. Go to Sales > Accounts.
+1. Go to Contacts.
 2. Open the account and change the information that you want.
 3. Click Save.
