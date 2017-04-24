@@ -1,6 +1,6 @@
 # Create or edit an account
 
-If you work mostly with other companies, you’ll probably want to use accounts to keep track of them.
+When companies express an interest in your product/service, the representatives of the companies you engage with become your contacts while the companies become accounts.
 
 You can also use accounts to keep track of any vendors you do business with.
 
