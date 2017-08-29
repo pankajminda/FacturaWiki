@@ -1,5 +1,5 @@
 # Factura Release Notes
----
+
 
 ### 28-08-2017
 * In Stk Jrnl printing can now configure the stock item name print format.
