@@ -1,4 +1,4 @@
-# 16-08-2017
+## 16-08-2017
 * Added Indian GST calculation support
 
 # 23-08-2017
