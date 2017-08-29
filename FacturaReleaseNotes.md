@@ -1,4 +1,7 @@
-## 28-08-2017
+# Factura Release Notes
+---
+
+### 28-08-2017
 * In Stk Jrnl printing can now configure the stock item name print format.
   In `TPP.ini` file add the following key : `StkJrnlPrintItemNameFormat = {ItemName}-{PartNumber}`
 * In Purchase Invoice Edit Mode pressing `Ctrl+Alt+A`  toggles additional cost completed flag
