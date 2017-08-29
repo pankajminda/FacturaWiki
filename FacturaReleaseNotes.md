@@ -9,8 +9,8 @@
   Select the checkbox `Expense in base currency`
 * New report added `Purchase Item Analysis` in Smartlist. Shows the total additional cost linked to an invoice with effective rate.
 
-## 23-08-2017
+### 23-08-2017
 * In all master screens the selection dropdown now allows 'contains' filtering
 
-## 16-08-2017
+### 16-08-2017
 * Added Indian GST calculation support
