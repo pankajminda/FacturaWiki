@@ -2,6 +2,7 @@
 
 ### 07-09-2017
 * FIXED : In StockSummary report alternate units display
+* Added `[CURRENCY_SYMBOL]` and `[CURRENCY_FORMALNAME]` keywords for invoice header/footer printing
 
 ### 06-09-2017
 * Added default Billwise allocaton for Additional Cost journals
