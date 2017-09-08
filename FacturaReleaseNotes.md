@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 08-09-2017
+* FIXED : When transactions were going for WF, there balances would reflect in Trial Balance even though they are optional
+
 ### 07-09-2017
 * FIXED : In StockSummary report alternate units display
 * Added `[CURRENCY_SYMBOL]` and `[CURRENCY_FORMALNAME]` keywords for invoice header/footer printing
