@@ -5,6 +5,7 @@
 
 ### 08-09-2017
 * Added `Breadcrumb bar` in Opportunity view
+* In quotes Opportunity box is searchable, now also displays Account/Contact
 * Updated Dashbard charts
 * Performance optimization of lists
 * Edit/View screens are now more mobile fiendly
