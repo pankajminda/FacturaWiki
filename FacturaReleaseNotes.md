@@ -1,5 +1,9 @@
 # Factura Release Notes
 
+### 11-09-2017
+* FIXED : Additional Cost entries could not be deleted
+* FIXED : In Additional Cost entries when expense was enetered in base currency and invoice in diff. currency then total amount was shown in wrong currency
+
 ### 08-09-2017
 * FIXED : When transactions were going for WF, there balances would reflect in Trial Balance even though they are optional
 
