@@ -5,9 +5,10 @@
 * Added : New field in Ledger Master : GSTRegistrationType
 * Added : New `Reference No.` field in `Additional Cost of Purchase`
 * Changed : For `RR Busduct` in `Additional Cost of Purchase` billwise will always post `Agst Ref`
-* Fixed : In Group Master, auto filter did not work in sub group field
+* Fixed : In Group Master and others, auto filter did not work in dropdown fields
 * Fixed : In `Additional Cost of Purchase`, auto filter did not work in ledger fields
 * Added : In `Columnar Register` added column `Registration Type`
+* Fixed : Drilldown from `Stock item with Image` report
 
 ### 11-09-2017
 * Fixed : Additional Cost entries could not be deleted
