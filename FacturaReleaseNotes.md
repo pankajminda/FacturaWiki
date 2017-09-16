@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 16-09-2017
+* Added : New fields in `Ledger` master for `Attachment`: `DocumentName`, `DocumentNo`, `ExpiryDate`
+
 ### 12-09-2017
 * Added : New Report Smartlist->`Stock Summary by HSN Code`
 * Added : New field in Ledger Master : GSTRegistrationType
