@@ -1,5 +1,9 @@
 # Factura Release Notes
 
+### 17-09-2017
+* Fixed : StockItem was not saving
+* Fixed : In double entry voucher mode attachment were not saving in edit mode
+
 ### 16-09-2017
 * Added : New fields in `Ledger` master for `Attachment`: `DocumentName`, `DocumentNo`, `ExpiryDate`
 * Ctrl + Y in party selection drowdown will open Ledger History report
