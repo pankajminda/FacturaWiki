@@ -1,7 +1,8 @@
 # Factura Release Notes
 
 ### 17-09-2017
-* Fixed : StockItem was not saving
+* Fixed : `StockItem` was not saving
+* Fixed : `GST` tab in `StockItem` will now show only if GST is enabled in TPP.ini file
 * Fixed : In double entry voucher mode attachment were not saving in edit mode
 
 ### 16-09-2017
