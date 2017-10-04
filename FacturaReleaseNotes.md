@@ -1,5 +1,14 @@
 # Factura Release Notes
 
+### 04-10-2017
+* Added : New keywords in `Invoice` printing for `GST`
+  [IGST]
+  [SGST]
+  [CGST]
+  [IGST_AMOUNT]
+  [SGST_AMOUNT]
+  [CGST_AMOUNT]
+
 ### 17-09-2017
 * Fixed : `StockItem` was not saving
 * Fixed : `GST` tab in `StockItem` will now show only if GST is enabled in TPP.ini file
