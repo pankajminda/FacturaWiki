@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 11-10-2017
+* Fixed : Auto Column in P&L was producing columns with wrong date ranges
+
 ### 04-10-2017
 * Added : New keywords in `Invoice` printing for `GST`
   [IGST]
