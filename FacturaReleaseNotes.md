@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 12-10-2017
+* Added : AutoRestore.exe to allow automatic restore of database from Dropbox. For 1 way sync where internet is slow for syncronization.
+
 ### 11-10-2017
 * Fixed : Auto Column in P&L was producing columns with wrong date ranges
 
