@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 28-10-2017
+* Added : Plugin : `SmartList`->`Custom`->`Negative Stock`, This report will all items which have gone negative on any date in the financial period.
+
 ### 12-10-2017
 * Added : AutoRestore.exe to allow automatic restore of database from Dropbox. For 1 way sync where internet is slow for syncronization.
 
