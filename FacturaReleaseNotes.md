@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### TBD
+* Added : Report `SmartList`->`Stock Item Project Budget`
+
 ### 28-10-2017
 * Added : Plugin : `SmartList`->`Custom`->`Negative Stock`, This report will show all items which have gone negative on any date within the financial period.
 
