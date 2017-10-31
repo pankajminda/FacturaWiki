@@ -1,10 +1,10 @@
 # Factura Release Notes
 
-### TBD
-* Added : Report `SmartList`->`Stock Item Project Budget`
+### 31-10-2017
+* Added : Plugin : Report `SmartList`->`Stock Item Project Budget`. Budget can can be compared with `Inward Qty` or `Inward Amount` fields.
 
 ### 28-10-2017
-* Added : Plugin : `SmartList`->`Custom`->`Negative Stock`, This report will show all items which have gone negative on any date within the financial period.
+* Added : Plugin : Report `SmartList`->`Custom`->`Negative Stock`, This report will show all items which have gone negative on any date within the financial period.
 
 ### 12-10-2017
 * Added : AutoRestore.exe to allow automatic restore of database from Dropbox. For 1 way sync where internet is slow for syncronization.
