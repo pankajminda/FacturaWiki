@@ -1,10 +1,15 @@
 # Factura Release Notes
 
+### 07-11-2017
+* Updated : Plugin : Report `SmartList`->`Custom`->`Negative Stock`. Date column now in `dd-MMM-yyyy` format.
+* Updated : Plugin : Report `SmartList`->`Custom`->`Negative Stock`. Drilldown to Stock Vouchers report for quick details view.
+* Fixed : `Export to Excel` option in `Price List` was not working.
+
 ### 31-10-2017
-* Added : Plugin : Report `SmartList`->`Stock Item Project Budget`. Budget can can be compared with `Inward Qty` or `Inward Amount` fields.
+* Added : Plugin : Report `SmartList`->`Stock Item Project Budget`. Budget can be compared with `Inward Qty` or `Inward Amount` fields.
 
 ### 28-10-2017
-* Added : Plugin : Report `SmartList`->`Custom`->`Negative Stock`, This report will show all items which have gone negative on any date within the financial period.
+* Added : Plugin : Report `SmartList`->`Custom`->`Negative Stock`. This report will show all items which have gone negative on any date within the financial period.
 
 ### 12-10-2017
 * Added : AutoRestore.exe to allow automatic restore of database from Dropbox. For 1 way sync where internet is slow for syncronization.
