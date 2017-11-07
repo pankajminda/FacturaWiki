@@ -4,6 +4,7 @@
 * Updated : Plugin : Report `SmartList`->`Custom`->`Negative Stock`. Date column now in `dd-MMM-yyyy` format.
 * Updated : Plugin : Report `SmartList`->`Custom`->`Negative Stock`. Drilldown to Stock Vouchers report for quick details view.
 * Fixed : `Export to Excel` option in `Price List` was not working.
+* Fixed : Stock Valuation opening calculation time reduced upto 1/3rd when start date of report is greater than Financial Period.
 
 ### 31-10-2017
 * Added : Plugin : Report `SmartList`->`Stock Item Project Budget`. Budget can be compared with `Inward Qty` or `Inward Amount` fields.
