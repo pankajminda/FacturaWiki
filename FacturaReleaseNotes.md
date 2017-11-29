@@ -2,9 +2,13 @@
 
 ### 29-11-2017
 * Added : In Body only printing templates now can print image in header/footer. eg.
+```
 <tr name="header">
-		<td valign="middle" colspan="5" align="center">[IMAGE'maxside|145|E:\logo.png']</td>
+    <td valign="middle" colspan="5" align="center">[IMAGE'maxside|145|E:\logo.png']</td>
 </tr>
+```
+* Updated : Reorder Status Report was causing OutOfMemory in Suruchi data in homepage, now uses the StockSummary for closing calculation.
+* Fixed : Journal vouchers unable to preview.
 
 ### 07-11-2017
 * Updated : Plugin : Report `SmartList`->`Custom`->`Negative Stock`. Date column now in `dd-MMM-yyyy` format.
