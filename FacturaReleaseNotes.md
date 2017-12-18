@@ -3,6 +3,8 @@
 ### 18-12-2017
 * Added : Enabled VAT for UAE
 * Fixed : Report `One Account` Opening balance date was wrongly displayed when mentod of balancing was set to `Daily`
+* Added : Report `Bills Receivables` option to sort by `Party`, `Ref. No.`, `Date`
+* Fixed : Report `Bills Receivables` option to set aging period 
 
 ### 29-11-2017
 * Added : In Body only printing templates now can print image in header/footer. eg.
