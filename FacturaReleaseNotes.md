@@ -1,5 +1,9 @@
 # Factura Release Notes
 
+### 18-12-2017
+* Added : Enabled VAT for UAE
+* Fixed : Report `One Account` Opening balance date was wrongly displayed when mentod of balancing was set to `Daily`
+
 ### 29-11-2017
 * Added : In Body only printing templates now can print image in header/footer. eg.
 ```
