@@ -1,5 +1,12 @@
 # Factura Release Notes
 
+### 21-12-2017
+* Added : New keywords in `Invoice` printing for `GST`
+  [AMOUNT_WITH_GST]
+* Fixed : Track user login attempts from desktop/web along with ipaddress
+* Fixed : Track failed login attempts with ipaddress
+* Fixed : Continuous Voucher Numbering, in some case was repeating
+
 ### 18-12-2017
 * Added : Enabled VAT for UAE
 * Fixed : Report `One Account` Opening balance date was wrongly displayed when mentod of balancing was set to `Daily`
