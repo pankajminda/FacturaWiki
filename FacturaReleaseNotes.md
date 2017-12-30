@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 30-12-2017
+* Fixed : Restore Deleted Data : Only Admin can Clear/Restore any Masters/Vocuhers
+
 ### 21-12-2017
 * Added : New keywords in `Invoice` printing for `GST`
   [AMOUNT_WITH_GST]
