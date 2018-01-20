@@ -1,5 +1,10 @@
 # Factura Release Notes
 
+### 20-01-2018
+* Fixed : Fix for negative stock calculation when multiple years in a single company
+* Fixed : In continuous numbering method when voucher was modified sometimes the voucher no. changed
+* Fixed : Password in the database are now encrypted
+
 ### 30-12-2017
 * Fixed : Restore Deleted Data : Only Admin can Clear/Restore any Masters/Vocuhers (Web/Desktop)
 
