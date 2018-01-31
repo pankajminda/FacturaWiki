@@ -5,6 +5,9 @@
 * Added : New column `Entry Type` in `Smartlist`->`Vouchers` report, will help find all `Additional Cost of Purchase` entries
 * Added : Drilldown from `Smartlist`->`Vouchers` report for `Additional Cost of Purchase` entries will now open the `Additional Cost of Purchase` screen
 * Added : Now can delete `Additional Cost of Purchase` entries and automatically reversing its costing effect.
+* Fixed : All Reports->Customize window now show the list of Ledgers/Stock Items much faster, earlier used to take time in opening
+* Added : New field `Project Value` in Project master
+* Added : In `Project Analysis`report `Project Value` is displayed next to date in header
 
 ### 20-01-2018
 * Fixed : Fix for negative stock calculation when multiple years in a single company
