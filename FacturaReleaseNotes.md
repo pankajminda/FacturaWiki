@@ -1,5 +1,11 @@
 # Factura Release Notes
 
+### 31-01-2018
+* Fixed : Page Up/Down in `Additional Cost of Purchase` will loop through all `Additional Cost of Purchase` entries now.
+* Added : New column `Entry Type` in `Smartlist`->`Vouchers` report, will help find all `Additional Cost of Purchase` entries
+* Added : Drilldown from `Smartlist`->`Vouchers` report for `Additional Cost of Purchase` entries will now open the `Additional Cost of Purchase` screen
+* Added : Now can delete `Additional Cost of Purchase` entries and automatically reversing its costing effect.
+
 ### 20-01-2018
 * Fixed : Fix for negative stock calculation when multiple years in a single company
 * Fixed : In continuous numbering method when voucher was modified sometimes the voucher no. changed
