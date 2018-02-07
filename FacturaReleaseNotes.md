@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 07-02-2018
+* Added : New column `Stock Group Name` and `Date` in `Smartlist`->`Sales by Customer` report
+
 ### 31-01-2018
 * Fixed : Page Up/Down in `Additional Cost of Purchase` will loop through all `Additional Cost of Purchase` entries now.
 * Added : New column `Entry Type` in `Smartlist`->`Vouchers` report, will help find all `Additional Cost of Purchase` entries
