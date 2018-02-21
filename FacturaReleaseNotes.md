@@ -1,8 +1,9 @@
 # Factura Release Notes
 
 ### 21-02-2018
-* Fixed : In `Columnar Register` Customize window was not showing controls
 * Added : In `Invoice` data entry screen Party combo now shows `Credit Limit` in tooltip after pressing tab
+* Fixed : In `Columnar Register` Customize window was not showing controls
+* Fixed : In `Project` Master `Project Value` field was limited to maximum length of 4
 
 ### 07-02-2018
 * Added : New column `Stock Group Name` and `Date` in `Smartlist`->`Sales by Customer` report
