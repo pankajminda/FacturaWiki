@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 05-03-2018
+* Fixed : In `Daybook` report Currency symbol can be entered in customize dialog to view report in any currency of choice
+
 ### 21-02-2018
 * Added : In `Invoice` data entry screen Party combo now shows `Credit Limit` in tooltip after pressing tab
 * Fixed : In `Columnar Register` Customize window was not showing controls
