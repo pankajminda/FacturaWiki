@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 17-03-2018
+* Added : In `Stock Item` master Project wise opening stock can be entered. Also included in stock item master xml export and import. **Note: Godown or Batch must be `On` for the item for Project allocation.**
+
 ### 05-03-2018
 * Fixed : In `Daybook` report Currency symbol can be entered in customize dialog to view report in any currency of choice
 
