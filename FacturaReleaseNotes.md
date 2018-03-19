@@ -2,7 +2,7 @@
 
 ### 19-03-2018
 * Added : New keyword `[SUPPLIER_ITEM_NAME]` added to item row for invoice printing
-* Fixed : On exporting Smartlist to Excel $ sign was being displayed
+* Fixed : On exporting Smartlist to Excel, $ sign was being displayed
 * Fixed : Document Expiry Plugin will get activated only when Expiry Date is set for the attachment
 * Fixed : `Project` Master in single user edition was not saving
 
