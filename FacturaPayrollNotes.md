@@ -1,6 +1,6 @@
 # Factura Payroll Notes
 
-##### Dashboard
+### Dashboard
 - Upcoming Birthdays
   - Birthdays coming up in the next 7 days
   - Profile image is displayed if availabale else initials
