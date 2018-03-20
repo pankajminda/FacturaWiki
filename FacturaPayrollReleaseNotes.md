@@ -2,9 +2,31 @@
 
 ### TODO
 
+###### Letter Requests
+* Passport Release
+* Salary slip for Bank
+
+###### Expense Module
+* Upload Expense documents scanned images
+* Approval
+* Pay with salary or outside payroll
+
+###### Loan Module
+* Screen to define loan amount, duration, interest rate if any, start from
+* Approval
+* Auto deduction of loan amount
+* Defer loan payment for a period
+* Reschedule loan (should go for approval)
+
+###### Audit
+*   Track all emails sent from the application
+
+###### Letter generation
+*   Get Word Document Mail merge feature from Contact Manager application.
+
 ###### User Security Settings
 * Add new module which asks whether given user can see other employees salary details
-    * If no rights then
+    * If **no** rights then
         * employee profile screen will not show benefits and payroll components tab
 
 ###### Salary Revison
