@@ -2,6 +2,11 @@
 
 ### TODO
 
+###### Company Settings
+* Add checkbox Show Upcoming Birtdays list in dashboard (some clients don't want it to be displayed)
+
+###### Performance Module
+
 ###### Letter Requests
 * Passport Release
 * Salary slip for Bank
@@ -38,6 +43,3 @@
     * `Copy Adjustment from previous 1` allow the user to clone an adjustment from previously posted adjustment by just selecting the new pay period
 * Option 2
     * `Generate for multiple periods` allow the user to generate multiple adjustment on a single click by just selecting the new pay period
-
-### 07-09-2017
-* Fixed `MarkAllAsPresent` was throwing error
