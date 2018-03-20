@@ -2,10 +2,14 @@
 
 ### TODO
 
+###### ESS
+ * What elements need to be added
+
 ###### Company Settings
 * Add checkbox Show Upcoming Birtdays list in dashboard (some clients don't want it to be displayed)
 
 ###### Performance Module
+*
 
 ###### Letter Requests
 * Passport Release
