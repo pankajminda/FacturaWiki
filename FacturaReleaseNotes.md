@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 25-03-2018
+* Added : In `Vat Classification` report City column added for UAE
+
 ### 19-03-2018
 * Added : New keyword `[SUPPLIER_ITEM_NAME]` added to item row for invoice printing
 * Fixed : On exporting Smartlist to Excel, $ sign was being displayed
