@@ -1,7 +1,7 @@
 # Factura Release Notes
 
 ### 27-03-2018
-* Added : New keywords in `Sales` `Invoice` printing for `Advance Received against Invoice` [ADVANCE_RCVD_AMOUNT] and [ADVANCE_PENDING_AMOUNT]
+* Added : New keywords in `Sales` `Invoice` printing for feature "Advance Received against Invoice" `[ADVANCE_RCVD_AMOUNT]` and `[ADVANCE_PENDING_AMOUNT]`
 
 ### 25-03-2018
 * Added : In `Vat Classification` report `City` column added for UAE
