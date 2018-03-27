@@ -4,7 +4,7 @@
 * Added : New keywords in `Sales` `Invoice` printing for `Advance Received against Invoice` [ADVANCE_RCVD_AMOUNT] and [ADVANCE_PENDING_AMOUNT]
 
 ### 25-03-2018
-* Added : In `Vat Classification` report City column added for UAE
+* Added : In `Vat Classification` report `City` column added for UAE
 
 ### 19-03-2018
 * Added : New keyword `[SUPPLIER_ITEM_NAME]` added to item row for invoice printing
