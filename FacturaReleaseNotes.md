@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 02-04-2018
+* Added : New keywords in `Invoice` printing for `GST` for Ledger row `[GST_TAXABLE_AMOUNT]`
+  
 ### 27-03-2018
 * Added : New keywords in `Sales` `Invoice` printing for feature "Advance Received against Invoice" `[ADVANCE_RCVD_AMOUNT]` and `[ADVANCE_PENDING_AMOUNT]`
 
