@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 05-04-2018
+* Added : New keywords in `Sales` `Invoice` printing `[PARTY_CURRENT_BALANCE_IN_WORDS]`,`[PARTY_BALANCE_PREV_DAY_IN_WORDS]` and `[ADVANCE_PENDING_AMOUNT_IN_WORDS]`
+
 ### 02-04-2018
 * Added : New keywords in `Invoice` printing for `GST` for Ledger row `[GST_TAXABLE_AMOUNT]`
   
