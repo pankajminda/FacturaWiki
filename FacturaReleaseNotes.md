@@ -1,5 +1,9 @@
 # Factura Release Notes
 
+### 07-04-2018
+* Added : User can select exported file path when exporting Reports to Excel
+* Fixed : `rowheight` attribute on `tr` element in voucher printing template can be used for setting the height of rows
+
 ### 05-04-2018
 * Added : New keywords in `Sales` `Invoice` printing `[PARTY_CURRENT_BALANCE_IN_WORDS]`,`[PARTY_BALANCE_PREV_DAY_IN_WORDS]` and `[ADVANCE_PENDING_AMOUNT_IN_WORDS]`
 
