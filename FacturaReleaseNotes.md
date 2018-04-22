@@ -1,5 +1,9 @@
 # Factura Release Notes
 
+### 22-04-2018
+* Added : New Multi-Address editing screen in Masters Gallery
+* Fixed : In Purchase preview the VAT no. was shown wrong in the footer
+
 ### 07-04-2018
 * Added : User can select exported file path when exporting Reports to Excel
 * Fixed : `rowheight` attribute on `tr` element in voucher printing template can be used for setting the height of rows
