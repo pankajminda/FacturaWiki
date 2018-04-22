@@ -2,6 +2,7 @@
 
 ### 22-04-2018
 * Added : New Multi-Address editing screen in Masters Gallery
+* Added : In Multi-Edit mode added option to Export data and Group by columns
 * Fixed : In Purchase preview the VAT no. was shown wrong in the footer
 
 ### 07-04-2018
