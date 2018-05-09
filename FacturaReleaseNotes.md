@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 09-05-2018
+* Added : in `Stock Summary - Pivot` report added new view `Company` to see multiple companies data in same report
+
 ### 22-04-2018
 * Added : New Multi-Address editing screen in Masters Gallery
 * Added : In Multi-Edit mode added option to Export data and Group by columns
