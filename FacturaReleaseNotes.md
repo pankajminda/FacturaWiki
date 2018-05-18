@@ -1,5 +1,9 @@
 # Factura Release Notes
 
+### 18-05-2018
+* Added : in `Budget` master added `Import from Excel` option
+* Fixed : in `Budget` master exported excel file did not have extension
+
 ### 09-05-2018
 * Added : in `Stock Summary - Pivot` report added new view `Company` to see multiple companies data in same report
 
