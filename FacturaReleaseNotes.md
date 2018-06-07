@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 07-06-2018
+* Added : in `Ledger Address` multi edit screen, now can add new address for existing ledgers
+
 ### 18-05-2018
 * Added : in `Budget` master added `Import from Excel` option
 * Fixed : in `Budget` master exported excel file did not have extension
