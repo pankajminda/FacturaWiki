@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 08-06-2018
+* Added : `Purchase Vouchers` report in `SmartList`
+
 ### 07-06-2018
 * Added : in `Ledger Address` multi edit screen, now can add new address for existing ledgers
 
