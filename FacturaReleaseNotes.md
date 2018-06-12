@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 12-06-2018
+* Fixed : `Forex/Gain Loss` report should show only those ledgers whose currency is not set as base currency.
+
 ### 08-06-2018
 * Added : `Purchase Vouchers` report in `SmartList`
 
