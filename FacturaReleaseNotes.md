@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 27-06-2018
+* Fixed : In reports for `Forex Unadjusted Gain/Loss` calculation `Contra` vouchers were not being considered
+
 ### 24-06-2018
 * Fixed : Voucher Class does not show in voucher edit mode.
 * Added : Voucher Type `Import Purchase Vat` is now excluded in VAT Reports for UAE
