@@ -2,6 +2,7 @@
 
 ### 27-06-2018
 * Fixed : In reports for `Forex Unadjusted Gain/Loss` calculation `Contra` vouchers were not being considered
+* Fixed : Voucher Printing for Jrnl/Ctra/Reversing_Journal/Memorandum was not showing currency excange rate in case of forex transaction
 
 ### 24-06-2018
 * Fixed : Voucher Class does not show in voucher edit mode.
