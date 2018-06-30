@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 30-06-2018
+* Fixed : UDF entry screen size increased to avoid labels wrapping
+
 ### 27-06-2018
 * Fixed : In reports for `Forex Unadjusted Gain/Loss` calculation `Contra` vouchers were not being considered
 * Fixed : Voucher printing for Jrnl/Ctra/Reversing_Journal/Memorandum was not showing currency excange rate in case of forex transaction
