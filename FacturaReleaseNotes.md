@@ -1,5 +1,9 @@
 # Factura Release Notes
 
+### 30-07-2018
+* Fixed : In `Godown` Master, for `Main Location` `Allow storage of materials` option could not be unchecked
+* Added : In `Sales/Purchase Bill Pending` report added option to sort by party name
+
 ### 30-06-2018
 * Fixed : UDF entry screen size increased to avoid labels wrapping
 
