@@ -1,5 +1,10 @@
 # Factura Release Notes
 
+### 13-11-2018
+* Added : New keyword in `Sales Invoice` printing `[INVOICE_DUE_DATE]`, will display the Credit Period (1st Billwise due date)
+* Added : Plugins for Workflow Engine can be written
+* Fixed : Barcode printing in both Laser and thermal has been tested and working fine
+
 ### 30-07-2018
 * Fixed : In `Godown` Master, for `Main Location` `Allow storage of materials` option could not be unchecked
 * Added : In `Sales/Purchase Bill Pending` report added option to sort by party name
