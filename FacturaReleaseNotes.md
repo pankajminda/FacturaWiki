@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 23-11-2018
+* Added : New keyword in `Cheque` printing `[DATE_DAY]`,`[DATE_MONTH]`,`[DATE_YEAR]`
+
 ### 13-11-2018
 * Added : New keyword in `Sales Invoice` printing `[INVOICE_DUE_DATE]`, will display the Credit Period (1st Billwise due date)
 * Added : Plugins for Workflow Engine can be written
