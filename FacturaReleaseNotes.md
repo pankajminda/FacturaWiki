@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 04-12-2018
+* Fixed : In party details window if order no. was entered manually then next time when tab was press from order no. field date would change to voucher date
+
 ### 23-11-2018
 * Added : New keyword in `Cheque` printing `[DATE_DAY]`,`[DATE_MONTH]`,`[DATE_YEAR]`
 
