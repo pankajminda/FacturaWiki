@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 23-01-2019
+* Added : In Ledger Vouchers Report customize window added option `Show Line Balance`
+
 ### 04-12-2018
 * Fixed : In party details window if order no. was entered manually then next time when tab was press from order no. field date would change to voucher date
 
