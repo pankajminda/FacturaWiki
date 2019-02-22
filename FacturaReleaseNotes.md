@@ -1,5 +1,9 @@
 # Factura Release Notes
 
+### 22-01-2019
+* Fixed : `Physical Stock Worksheet` was not opening in single user company
+* Fixed : Negative stock error message now displayed in web edition from Item Allocation window
+
 ### 23-01-2019
 * Added : In Ledger Vouchers Report customize window added option `Show Line Balance`
 
