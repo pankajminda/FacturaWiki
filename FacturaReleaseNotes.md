@@ -1,5 +1,18 @@
 # Factura Release Notes
 
+### 21-04-2019
+-in stk jrnl/mfg jrnl if alt-c create project then both combos do not refresh
+
+* Fixed : Effective date is now used in voucher for calculating due date in billwise window
+* Fixed : Forex calculation in (BS, P&L, TB, Daybook, Forex Gain Loss)
+* Fixed : `Item Monthly Summary` report Opening is now show separatly
+* Fixed : `Stock Summary` report in mid period closing and opening was not shown correct. Fixed (New Adjust Quantities, Logic of Stock Summary, P&L, BS, Item Monthly Summary)
+* Fixed : `Receipt & Payments` report speed issue
+* Added : `Statistics` report date customize option
+* Fixed : `SmartList`>`Negative Stock` report split qty and unit in separate columns
+* Added : `Smartlist`>`Stock Item` show costing method
+* Fixed : `SmartList`>`Audit Trail` Modified Date column not showing data
+
 ### 22-01-2019
 * Fixed : `Physical Stock Worksheet` was not opening in single user company
 * Fixed : Negative stock error message now displayed in web edition from Item Allocation window
