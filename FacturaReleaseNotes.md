@@ -1,8 +1,12 @@
 # Factura Release Notes
 
-### 21-04-2019
+### 22-04-2019
 -in stk jrnl/mfg jrnl if alt-c create project then both combos do not refresh
 
+* Fixed : `Receipt & Payments` report removed multi currency calculation
+* Fixed : `Receipt & Payments` report drill down to `Ledger Monthly Summary` and `Daybook` will exclude forex calculation
+
+### 21-04-2019
 * Fixed : Effective date is now used in voucher for calculating due date in billwise window
 * Fixed : Forex calculation in (BS, P&L, TB, Daybook, Forex Gain Loss)
 * Fixed : `Item Monthly Summary` report Opening is now show separatly
