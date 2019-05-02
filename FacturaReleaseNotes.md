@@ -1,5 +1,8 @@
 # Factura Release Notes
 
+### 02-05-2019
+* Fixed : Auto fill currency exchange rates in master on voucher saving
+
 ### 22-04-2019
 -in stk jrnl/mfg jrnl if alt-c create project then both combos do not refresh
 
